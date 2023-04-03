@@ -1,4 +1,4 @@
-# Projetcj Nikel 
+# Project Nikel 
 
 Esse projeto é parte do desafio [codaí](https://codai.growdev.com.br).
 
